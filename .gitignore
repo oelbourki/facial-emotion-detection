@@ -9,9 +9,9 @@ __pycache__/
 fer2013
 fer2013.zip
 #models checkpoint
-efficientNetB0
-vgg16
-custom
+*.h5
+#logs
+*.log
 # Distribution / packaging
 .Python
 build/
