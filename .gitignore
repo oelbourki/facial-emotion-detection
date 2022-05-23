@@ -5,7 +5,13 @@ __pycache__/
 
 # C extensions
 *.so
-
+#mine
+fer2013
+fer2013.zip
+#models checkpoint
+efficientNetB0
+vgg16
+custom
 # Distribution / packaging
 .Python
 build/
